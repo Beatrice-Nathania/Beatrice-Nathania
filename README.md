@@ -36,8 +36,8 @@
  
 ## 📫 Let's Connect
  
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- 📧 Email: betrisnathan@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/beatrice-nathania-0367b6325](https://www.linkedin.com/in/beatrice-nathania-0367b6325)
 <p align="center">
   <i>"Behind every dataset is a story. I'm here to tell it."</i> ✨
 </p>
