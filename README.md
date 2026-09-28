@@ -10,7 +10,7 @@
 - 📖 Data has always fascinated me, not as rows and columns, but as **fragments of a story** waiting to be told.
 - 🔬 I'm passionate about **data analysis, statistical modeling, and machine learning**.
 - 🧑‍💻 I love applying these tools to **solve real-world problems** and uncover meaningful patterns hidden within data.
-- 🌱 I'm always eager to **learn new tools and techniques** that help me grow as a data scientist.
+- 🚀 I'm constantly exploring **new techniques** and **tools** to sharpen my skills and grow as a data scientist.
 ---
  
 ## 🧠 Expertise
