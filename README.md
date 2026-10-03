@@ -53,7 +53,7 @@
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=for-the-badge&logo=etl-logo&logoColor=fff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&logo=python&logoColor=fff)
 ![GridSearchCV](https://img.shields.io/badge/GridSearchCV-black?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC252D?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC252D?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **🔹 R**
 
