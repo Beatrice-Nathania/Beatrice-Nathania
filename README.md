@@ -68,6 +68,7 @@
 
 ### 🛠️ Tools and Platform
 
+![AWS Cloud](https://custom-icon-badges.demolab.com/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
